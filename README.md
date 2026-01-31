@@ -6,7 +6,7 @@
 
 I explore the intersection of language, vision, and control to build intelligent systems that think, perceive, and act. From evaluating LLM-generated summaries to reconstructing 3D scenes from depth, I enjoy bringing ambitious AI ideas to life. My passion lies in building GenAI tools that are not just smart but genuinely useful.
 
-## 🌟 Field of Work
+## Field of Work
 GenAI Evaluation & Testing: Designed LLM-as-a-Judge pipelines using GPT-4 variants for evaluating summaries across accuracy, bias, trust, hallucination, and value.
 
 LLM Finetuning & Deployment: Applied QLoRA and CLIP-guided fine-tuning on Code LLaMA for scripting tasks in Maya; deployed through scalable tools like AWS Lambda.
@@ -19,13 +19,13 @@ LLM-based Extraction & Schema Generation: Built a self-healing pipeline leveragi
 
 Document Understanding & OCR: Achieved 95% accuracy in key-value extraction from insurance forms via Azure Cognitive Services, OpenCV, and TensorFlow.
 
-## 💼 Professional Experience
+## Professional Experience
 
 - **Machine Learning Intern @ Autodesk, San Francisco** *(May 2025 - August 2025)*
 - **Graduate Research Assistant @ USC** *(September 2024 - April 2025)*
 - **Machine Learning Intern @ Coforge** *(Oct 2023 - Jan 2024)*
 
-## 🏆 Honors & Awards
+## Honors & Awards
 - **Certificate of Merit** *(Aug 2023)*  
   Awarded 1st rank in B.Tech 3rd Year (CSE - AI/ML) at SRM University
 - **Certificate of Appreciation** *(Apr 2024)*  
@@ -33,13 +33,13 @@ Document Understanding & OCR: Achieved 95% accuracy in key-value extraction from
 - **Performance-Based Scholarship** *(Sep 2021)*  
   Merit-based scholarship awarded annually by Dept. of CSE, SRM
 
-## 📚 Research Publications
+## Research Publications
 - **Full Page Handwriting Recognition on CUDA Enabled Docker** – *Journal of Artificial Intelligence and Imaging*, Oct 2024  
   Developed a handwriting recognition system integrating TrOCR and PaddleOCR for full-page text extraction, optimized using CUDA.
 - **Dense Caption Imaging** – *(IJSRT)*, Sept 2023  
   Designed a GAN-based text-to-image synthesis model trained on COCO/CUB datasets with TensorFlow.
   
-## 👨‍💻 Languages
+## Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -71,7 +71,7 @@ Document Understanding & OCR: Achieved 95% accuracy in key-value extraction from
   <img src="https://img.shields.io/badge/NLTK-00A67E?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-## 💻 Tools & Platforms
+## Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -88,14 +88,14 @@ Document Understanding & OCR: Achieved 95% accuracy in key-value extraction from
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-## 💻 Operating Systems
+## Operating Systems
 <p>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurvi-vishnoi&layout=compact&theme=radical" width="48%" />
 </p>
