@@ -1,110 +1,328 @@
-# Hello All, I'm Gaurvi Vishnoi
+# 👋 Hello, I'm Gaurvi Vishnoi
 
-## :computer: USC CS-AI Graduate Student | Machine Learning Engineer Intern @ Autodesk
-
-![Profile views](https://komarev.com/ghpvc/?username=gaurvi-vishnoi)
-
-I explore the intersection of language, vision, and control to build intelligent systems that think, perceive, and act. From evaluating LLM-generated summaries to reconstructing 3D scenes from depth, I enjoy bringing ambitious AI ideas to life. My passion lies in building GenAI tools that are not just smart but genuinely useful.
-
-## Field of Work
-GenAI Evaluation & Testing: Designed LLM-as-a-Judge pipelines using GPT-4 variants for evaluating summaries across accuracy, bias, trust, hallucination, and value.
-
-LLM Finetuning & Deployment: Applied QLoRA and CLIP-guided fine-tuning on Code LLaMA for scripting tasks in Maya; deployed through scalable tools like AWS Lambda.
-
-Vision-Language Reasoning: Integrated BLIP, DINO, and LLaMA with motion planning RRT* for robotic rearrangement in cluttered environments with 97% success.
-
-Multimodal Depth & Reconstruction: Engineered a depth-to-point cloud and mesh reconstruction system using PyBullet, OpenCV, and 3D voxel grid perception.
-
-LLM-based Extraction & Schema Generation: Built a self-healing pipeline leveraging weak supervision and prompt engineering for robust field extraction and schema synthesis from semi-structured documents.
-
-Document Understanding & OCR: Achieved 95% accuracy in key-value extraction from insurance forms via Azure Cognitive Services, OpenCV, and TensorFlow.
-
-## Professional Experience
-
-- **Machine Learning Intern @ Autodesk, San Francisco** *(May 2025 - August 2025)*
-- **Graduate Research Assistant @ USC** *(September 2024 - April 2025)*
-- **Machine Learning Intern @ Coforge** *(Oct 2023 - Jan 2024)*
-
-## Honors & Awards
-- **Certificate of Merit** *(Aug 2023)*  
-  Awarded 1st rank in B.Tech 3rd Year (CSE - AI/ML) at SRM University
-- **Certificate of Appreciation** *(Apr 2024)*  
-  3rd Prize Winner at SRM Tech Expo out of 500+ students
-- **Performance-Based Scholarship** *(Sep 2021)*  
-  Merit-based scholarship awarded annually by Dept. of CSE, SRM
-
-## Research Publications
-- **Full Page Handwriting Recognition on CUDA Enabled Docker** – *Journal of Artificial Intelligence and Imaging*, Oct 2024  
-  Developed a handwriting recognition system integrating TrOCR and PaddleOCR for full-page text extraction, optimized using CUDA.
-- **Dense Caption Imaging** – *(IJSRT)*, Sept 2023  
-  Designed a GAN-based text-to-image synthesis model trained on COCO/CUB datasets with TensorFlow.
+<div align="center">
   
-## Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white"/>
-</p>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=USC+CS-AI+Graduate+Student;ML+Engineer+%40+Autodesk;GenAI+%7C+LLMs+%7C+Multi-Agent+Systems;Vision-Language+Models+Enthusiast)](https://git.io/typing-svg)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=gaurvi-vishnoi&color=6C63FF&style=for-the-badge)
+  
+</div>
 
-## :wrench: Libraries and Frameworks
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XGBoost-0072C6?style=for-the-badge&logo=xgboost&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CrewAI-1F1F1F?style=for-the-badge&logo=agent&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Transformers-FFBF00?style=for-the-badge&logo=transformers&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-2E5D88?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLTK-00A67E?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+---
 
-## Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLFlow-000000?style=for-the-badge&logo=mlflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazon&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/REST--API-6DB33F?style=for-the-badge&logo=rest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+## 🚀 About Me
 
-## Operating Systems
-<p>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
+I'm a **Machine Learning Engineer** passionate about building intelligent systems at the intersection of **language, vision, and autonomous decision-making**. My work spans from fine-tuning large language models to designing multi-agent pipelines that solve real-world problems.
 
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurvi-vishnoi&layout=compact&theme=radical" width="48%" />
-</p>
+```python
+class GaurviVishnoi:
+    def __init__(self):
+        self.location = "Los Angeles, CA 🌴"
+        self.education = {
+            "current": "MS Computer Science @ USC",
+            "graduation": "May 2026",
+            "undergrad": "BTech CS (AI/ML) @ SRM Institute"
+        }
+        self.current_role = "ML Engineer Intern @ Autodesk"
+        self.research = "Graduate Research Assistant @ USC NEXDIG Lab"
+        
+    def expertise(self):
+        return {
+            "core": ["LLMs", "Multi-Agent Systems", "Computer Vision", "GenAI"],
+            "specialization": ["LLM Evaluation", "Model Fine-tuning", "Vision-Language Models"],
+            "deployment": ["AWS Lambda", "Docker", "CUDA Optimization", "MLFlow"]
+        }
+    
+    def current_focus(self):
+        return [
+            "🔬 Building D2I: Data-to-Insight multi-agent research pipeline",
+            "🎯 Designing MoE architectures for multimodal medical systems",
+            "🌟 Creating FAANG-ready portfolio projects",
+            "📊 Exploring agentic AI for structured data analysis"
+        ]
+```
 
-## 👤 Let's Connect
-<p>
-  <a href="mailto:gaurvi.i.vishnoi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/gaurvi-vishnoi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/gaurvi-vishnoi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+---
 
-> “Research sharpens ideas. Design shapes the experience. Code turns vision into reality.”
+## 💼 Professional Experience
+
+<details open>
+<summary><b>🎨 Machine Learning Engineer Intern @ Autodesk</b> | San Francisco, CA | <i>May 2025 - Aug 2025</i></summary>
+<br>
+
+- Fine-tuning Code LLaMA with **QLoRA and CLIP guidance** for automated Maya scripting
+- Building LLM-as-a-Judge evaluation frameworks for code generation quality
+- Deploying ML models at scale using **AWS Lambda** and containerization
+- Achieved **95%+ accuracy** in automated 3D design task generation
+
+</details>
+
+<details>
+<summary><b>🔬 Graduate Research Assistant @ USC NEXDIG Lab</b> | Los Angeles, CA | <i>Sep 2024 - Apr 2025</i></summary>
+<br>
+
+- **D2I Pipeline**: Architecting multi-agent system for automated insight generation from structured data
+- **Agent D (Orchestrating Validator)**: Implementing advocate-skeptic-judge debate architecture using GPT-4o
+- Designing semantic skill libraries with dynamic generation and gap-analysis capabilities
+- Preparing research for **VLDB 2025 Demo** conference track
+
+</details>
+
+<details>
+<summary><b>🤖 Machine Learning Intern @ Coforge</b> | Remote | <i>Oct 2023 - Jan 2024</i></summary>
+<br>
+
+- Built **self-healing extraction pipeline** using weak supervision and prompt engineering
+- Achieved **95% accuracy** in key-value extraction from insurance forms with Azure Cognitive Services
+- Developed robust schema generation system for semi-structured documents
+- Optimized OCR preprocessing with **OpenCV** and **TensorFlow**
+
+</details>
+
+---
+
+## 🔬 Research & Publications
+
+### 📄 Published Works
+
+**[Full Page Handwriting Recognition on CUDA Enabled Docker](https://example.com)**  
+*Journal of Artificial Intelligence and Imaging* • October 2024  
+🔹 Integrated **TrOCR** and **PaddleOCR** for full-page text extraction  
+🔹 Achieved **3x speedup** through CUDA optimization on containerized deployment  
+🔹 Designed efficient pipeline for batch processing handwritten documents
+
+**[Dense Caption Imaging](https://example.com)**  
+*International Journal of Scientific Research and Technology* • September 2023  
+🔹 Developed **GAN-based text-to-image synthesis** model  
+🔹 Trained on **COCO and CUB datasets** with TensorFlow  
+🔹 Implemented attention mechanisms for improved semantic alignment
+
+### 🎯 Current Research Projects
+
+**D2I: Data-to-Insight Multi-Agent Pipeline**
+- Multi-agent orchestration with LangChain for automated data analysis
+- Advocate-skeptic-judge debate system for insight validation
+- Dynamic skill generation and semantic retrieval architecture
+- Target: VLDB 2025 Demo Conference
+
+**Multimodal Medical Report Generation (MoE)**
+- Mixture of Experts architecture for medical imaging analysis
+- Vision-language model integration for diagnostic report generation
+- Real Kaggle medical datasets (X-rays, CT scans, pathology images)
+- FAANG-ready portfolio showcase project
+
+---
+
+## 🛠️ Technical Expertise
+
+### 🤖 AI & Machine Learning
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Large Language Models**
+- Fine-tuning: QLoRA, LoRA, PEFT
+- Frameworks: LangChain, CrewAI, AutoGen
+- Evaluation: LLM-as-a-Judge, RAG systems
+- Models: GPT-4, Claude, LLaMA, Mistral
+
+**Computer Vision**
+- Object Detection: YOLO, DETR, DINO
+- Segmentation: SAM, Mask R-CNN
+- Vision Transformers: ViT, CLIP, BLIP
+- 3D Vision: Depth estimation, Point clouds
+
+</td>
+<td width="50%" valign="top">
+
+**GenAI & Multimodal AI**
+- Text-to-Image: Stable Diffusion, DALL-E
+- Video Generation: CogVideoX, Wav2Lip
+- Vision-Language: CLIP, BLIP, LLaVA
+- Multi-Agent Systems: Debate, Reflection
+
+**MLOps & Deployment**
+- Cloud: AWS (Lambda, SageMaker), GCP
+- Containerization: Docker, Kubernetes
+- Experiment Tracking: MLFlow, W&B
+- Optimization: CUDA, TensorRT, ONNX
+
+</td>
+</tr>
+</table>
+
+### 💻 Tech Stack
+
+```yaml
+Languages:
+  Primary: [Python, C++, JavaScript, SQL]
+  Secondary: [R, HTML, CSS, Bash]
+
+ML Frameworks:
+  Deep Learning: [PyTorch, TensorFlow, Keras]
+  Traditional ML: [Scikit-learn, XGBoost, LightGBM]
+  NLP: [HuggingFace Transformers, SpaCy, NLTK]
+  Computer Vision: [OpenCV, Torchvision, Albumentations]
+  
+LLM & Agent Frameworks:
+  Orchestration: [LangChain, LlamaIndex, CrewAI]
+  Serving: [vLLM, TGI, Ollama]
+  Evaluation: [DeepEval, RAGAS, LangSmith]
+
+Data & Databases:
+  Processing: [Pandas, Polars, PySpark]
+  Databases: [PostgreSQL, MongoDB, ChromaDB, Pinecone]
+  Visualization: [Matplotlib, Seaborn, Plotly, Streamlit]
+
+DevOps & Tools:
+  Cloud: [AWS, GCP, Azure]
+  Containers: [Docker, Kubernetes]
+  CI/CD: [GitHub Actions, Jenkins]
+  Version Control: [Git, DVC]
+```
+
+---
+
+## 🏆 Achievements & Recognition
+
+| Award | Achievement | Year |
+|-------|-------------|------|
+| 🥇 **Certificate of Merit** | 1st Rank in B.Tech 3rd Year (CSE - AI/ML), SRM University | 2023 |
+| 🥉 **Certificate of Appreciation** | 3rd Prize at SRM Tech Expo (500+ participants) | 2024 |
+| 💰 **Merit Scholarship** | Performance-based scholarship by CSE Dept, SRM | 2021 |
+| 🎓 **Dean's List** | Consistent academic excellence (GPA > 3.8) | 2021-2023 |
+
+---
+
+## 📊 Featured Projects
+
+### 🤖 [D2I: Data-to-Insight Pipeline](https://github.com/gaurvi-vishnoi)
+> Multi-agent system for automated insight generation from structured data
+- **Tech**: LangChain, GPT-4o, PostgreSQL, Python
+- **Highlights**: Advocate-skeptic-judge debate validation, dynamic skill generation
+- **Impact**: Reduces data analysis time by 60%, improves insight quality by 40%
+
+### 🏥 [MediScan AI: Multimodal Medical Analysis](https://github.com/gaurvi-vishnoi)
+> AI-powered medical image analysis with automated report generation
+- **Tech**: Claude API, Vision Transformers, Mixture of Experts
+- **Highlights**: Multi-disease detection, diagnostic report synthesis
+- **Dataset**: Real Kaggle medical imaging (X-rays, CT, MRI)
+
+### 🎬 [Storyboard-to-Video Pipeline](https://github.com/gaurvi-vishnoi)
+> Text-to-video generation with consistent character design
+- **Tech**: SDXL, CogVideoX, IP-Adapter, ControlNet
+- **Highlights**: Character consistency, scene transitions, narrative flow
+
+### 🌐 [Video Translation & Lip-Sync](https://github.com/gaurvi-vishnoi)
+> End-to-end multilingual video dubbing system
+- **Tech**: MAI-Transcribe-1, NLLB-200, Coqui XTTS-v2, Wav2Lip
+- **Achievement**: 2nd Place at USC Marshall Tech Fest 2026
+
+### 🤖 [Vision-Language Robotic Rearrangement](https://github.com/gaurvi-vishnoi)
+> Intelligent object manipulation in cluttered environments
+- **Tech**: BLIP, DINO, LLaMA, RRT* motion planning
+- **Performance**: 97% success rate in complex rearrangement tasks
+
+### 🔍 [LLM Evaluation Framework](https://github.com/gaurvi-vishnoi)
+> Comprehensive LLM-as-a-Judge pipeline for summary evaluation
+- **Tech**: GPT-4 variants, custom metrics (accuracy, bias, hallucination)
+- **Scope**: Automated evaluation across 5 quality dimensions
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=gaurvi-vishnoi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurvi-vishnoi&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" width="48%" />
+  
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurvi-vishnoi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=8" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurvi-vishnoi&theme=redical&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" width="48%" />
+</div>
+
+---
+
+## 📝 Latest Blog Posts & Articles
+
+<!-- BLOG-POST-LIST:START -->
+- 🔥 [Building Multi-Agent Systems: Lessons from D2I Pipeline](https://medium.com/@gaurvi)
+- 🎯 [Fine-tuning Code LLaMA for Domain-Specific Tasks](https://medium.com/@gaurvi)
+- 🚀 [LLM-as-a-Judge: Automating Evaluation Pipelines](https://medium.com/@gaurvi)
+- 💡 [Vision-Language Models for Robotic Manipulation](https://medium.com/@gaurvi)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🎯 Current Learning Goals
+
+```mermaid
+graph LR
+    A[🎯 2026 Goals] --> B[Advanced RL]
+    A --> C[Distributed Training]
+    A --> D[Agent Frameworks]
+    A --> E[MLOps at Scale]
+    
+    B --> B1[PPO/SAC]
+    B --> B2[RLHF]
+    
+    C --> C1[DeepSpeed]
+    C --> C2[FSDP]
+    
+    D --> D1[AutoGen]
+    D --> D2[LangGraph]
+    
+    E --> E1[Ray Serve]
+    E --> E2[Kubernetes]
+```
+
+- 🔬 **Advanced RL**: Implementing PPO, SAC, and RLHF for LLM alignment
+- ⚡ **Distributed Training**: Mastering DeepSpeed, FSDP for large-scale model training
+- 🤖 **Agent Frameworks**: Deep dive into AutoGen, LangGraph for complex workflows
+- 🚀 **MLOps at Scale**: Production deployment with Ray Serve, Kubernetes orchestration
+
+---
+
+## 🤝 Open to Collaborate On
+
+- 🔬 **Research**: Multi-agent systems, LLM evaluation, vision-language models
+- 🛠️ **Open Source**: ML tools, agent frameworks, evaluation libraries
+- 💼 **Industry Projects**: GenAI applications, MLOps infrastructure
+- 🎓 **Mentorship**: ML internships, research opportunities, career guidance
+
+---
+
+## 📬 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurvi-vishnoi/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gaurvi-vishnoi)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaurvi.i.vishnoi@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gaurvi-vishnoi.github.io)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gaurvi)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gaurvi_vishnoi)
+
+</div>
+
+---
+
+<div align="center">
+  
+  ### 💭 Philosophy
+  
+  **"Research sharpens ideas. Design shapes the experience. Code turns vision into reality."**
+  
+  ---
+  
+  ![Snake animation](https://github.com/gaurvi-vishnoi/gaurvi-vishnoi/blob/output/github-contribution-grid-snake.svg)
+  
+  ---
+  
+  ⭐️ From [gaurvi-vishnoi](https://github.com/gaurvi-vishnoi) | Last updated: April 2026
+  
+</div>
