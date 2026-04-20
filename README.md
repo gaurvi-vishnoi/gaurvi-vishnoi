@@ -184,7 +184,7 @@ DevOps & Tools:
 
 ---
 
-## 🏆 Achievements & Recognition
+## Achievements & Recognition
 
 | Award | Achievement | Year |
 |-------|-------------|------|
@@ -287,12 +287,12 @@ graph LR
 
 ---
 
-## 🤝 Open to Collaborate On
+##  Open to Collaborate On
 
-- 🔬 **Research**: Multi-agent systems, LLM evaluation, vision-language models
-- 🛠️ **Open Source**: ML tools, agent frameworks, evaluation libraries
-- 💼 **Industry Projects**: GenAI applications, MLOps infrastructure
-- 🎓 **Mentorship**: ML internships, research opportunities, career guidance
+- **Research**: Multi-agent systems, LLM evaluation, Vision-Language Models
+- **Open Source**: ML tools, Agent frameworks, Evaluation Pipelines
+- **Industry Projects**: Generative AI Applications, MLOps Infrastructure
+- **Mentorship**: Machine Learning Internships, Research Opportunities, Career Guidance
 
 ---
 
@@ -310,19 +310,3 @@ graph LR
 </div>
 
 ---
-
-<div align="center">
-  
-  ### 💭 Philosophy
-  
-  **"Research sharpens ideas. Design shapes the experience. Code turns vision into reality."**
-  
-  ---
-  
-  ![Snake animation](https://github.com/gaurvi-vishnoi/gaurvi-vishnoi/blob/output/github-contribution-grid-snake.svg)
-  
-  ---
-  
-  ⭐️ From [gaurvi-vishnoi](https://github.com/gaurvi-vishnoi) | Last updated: April 2026
-  
-</div>
