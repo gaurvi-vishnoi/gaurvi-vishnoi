@@ -50,7 +50,7 @@ class GaurviVishnoi:
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 <details open>
 <summary><b>🎨 Machine Learning Engineer Intern @ Autodesk</b> | San Francisco, CA | <i>May 2025 - Aug 2025</i></summary>
@@ -111,12 +111,6 @@ class GaurviVishnoi:
 - Dynamic skill generation and semantic retrieval architecture
 - Target: VLDB 2025 Demo Conference
 
-**Multimodal Medical Report Generation (MoE)**
-- Mixture of Experts architecture for medical imaging analysis
-- Vision-language model integration for diagnostic report generation
-- Real Kaggle medical datasets (X-rays, CT scans, pathology images)
-- FAANG-ready portfolio showcase project
-
 ---
 
 ## 🛠️ Technical Expertise
@@ -158,7 +152,7 @@ class GaurviVishnoi:
 </tr>
 </table>
 
-### 💻 Tech Stack
+### Tech Stack
 
 ```yaml
 Languages:
@@ -197,7 +191,7 @@ DevOps & Tools:
 | **Certificate of Merit** | 1st Rank in B.Tech 3rd Year (CSE - AI/ML), SRM University | 2023 |
 | **Certificate of Appreciation** | 3rd Prize at SRM Tech Expo (500+ participants) | 2024 |
 | **Merit Scholarship** | Performance-based scholarship by CSE Dept, SRM | 2021 |
-| **Dean's List** | Consistent academic excellence (GPA > 3.8) | 2021-2023 |
+| **Dean's List** | Consistent academic excellence (GPA > 3.8) | 2020-2024 |
 
 ---
 
@@ -268,12 +262,12 @@ DevOps & Tools:
 
 ```mermaid
 graph LR
-    A[🎯 2026 Goals] --> B[Advanced RL]
-    A --> C[Distributed Training]
+    A[🎯 2026 Goals] --> B[Mixture of Experts]
+    A --> C[FlashAttention-3]
     A --> D[Agent Frameworks]
     A --> E[MLOps at Scale]
     
-    B --> B1[PPO/SAC]
+    B --> B1[LLMOps platforms]
     B --> B2[RLHF]
     
     C --> C1[DeepSpeed]
@@ -282,16 +276,9 @@ graph LR
     D --> D1[AutoGen]
     D --> D2[LangGraph]
     
-    E --> E1[Ray Serve]
+    E --> E1[Small Language Models (SLMs)]
     E --> E2[Kubernetes]
 ```
-
-- 🔬 **Advanced RL**: Implementing PPO, SAC, and RLHF for LLM alignment
-- ⚡ **Distributed Training**: Mastering DeepSpeed, FSDP for large-scale model training
-- 🤖 **Agent Frameworks**: Deep dive into AutoGen, LangGraph for complex workflows
-- 🚀 **MLOps at Scale**: Production deployment with Ray Serve, Kubernetes orchestration
-
----
 
 ##  Open to Collaborate On
 
@@ -302,7 +289,7 @@ graph LR
 
 ---
 
-## 📬 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
