@@ -10,7 +10,7 @@
 
 ---
 
-## About Me
+## 🚀 About Me
 
 I'm a **Machine Learning Engineer** passionate about building intelligent systems at the intersection of **language, vision, and autonomous decision-making**. Currently pursuing my **MS in Computer Science at USC** (graduating May 2026), I specialize in designing **production-grade AI systems** that bridge research innovation with real-world impact.
 
@@ -23,13 +23,13 @@ I thrive on **ambitious technical challenges**—real-time transcription with We
 ```python
 class GaurviVishnoi:
     def __init__(self):
-        self.location = "San Francisco, CA"
+        self.location = "Los Angeles, CA 🌴"
         self.education = {
-            "current": "Masters of Science @ University of Southern California",
+            "current": "MS Computer Science @ USC",
             "graduation": "May 2026",
-            "undergrad": "Bachelor of Technology @ SRM Institute of Science and Technology"
+            "undergrad": "BTech CS (AI/ML) @ SRM Institute"
         }
-        self.current_role = "Machine Learning Engineer @ Autodesk"
+        self.current_role = "ML Engineer Intern @ Autodesk"
         self.research = "Graduate Research Assistant @ USC NEXDIG Lab"
         
     def expertise(self):
@@ -41,47 +41,47 @@ class GaurviVishnoi:
     
     def current_focus(self):
         return [
-            "Building D2I: Data-to-Insight multi-agent research pipeline",
-            "Designing MoE architectures for multimodal medical systems",
-            "Creating FAANG-ready portfolio projects",
-            "Exploring agentic AI for structured data analysis"
+            "🔬 Building D2I: Data-to-Insight multi-agent research pipeline",
+            "🎯 Designing MoE architectures for multimodal medical systems",
+            "🌟 Creating FAANG-ready portfolio projects",
+            "📊 Exploring agentic AI for structured data analysis"
         ]
 ```
 
 ---
 
-## Professional Experience
+## 💼 Professional Experience
 
 <details open>
 <summary><b>🎨 Machine Learning Engineer Intern @ Autodesk</b> | San Francisco, CA | <i>May 2025 - Aug 2025</i></summary>
 <br>
 
-- Fine-tuning Code LLaMA with **QLoRA and CLIP guidance** for automated Maya scripting
-- Building LLM-as-a-Judge evaluation frameworks for code generation quality
-- Deploying ML models at scale using **AWS Lambda** and containerization
-- Achieved **95%+ accuracy** in automated 3D design task generation
+- Built an **LLM-as-a-Judge evaluation framework** for Salesforce CRM AI summaries with multi-model weighted consensus scoring
+- Engineered end-to-end **MLOps pipeline** with fault-tolerant orchestration, reducing manual QA by **60%** across thousands of CRM records
+- Deployed real-time **Streamlit dashboard on AWS Lambda** with CI/CD pipeline for production-scale AI-generated insights
+- Implemented parallelized inference with auto-retry logic measuring accuracy, hallucination, bias, and value at scale
 
 </details>
 
 <details>
-<summary><b>🔬 Graduate Research Assistant @ USC NEXDIG Lab</b> | Los Angeles, CA | <i>Sep 2024 - Apr 2025</i></summary>
+<summary><b>🔬 Graduate Research Assistant @ USC NEXDIG Lab</b> | Los Angeles, CA | <i>Oct 2024 - Mar 2026</i></summary>
 <br>
 
-- **D2I Pipeline**: Architecting multi-agent system for automated insight generation from structured data
-- **Agent D (Orchestrating Validator)**: Implementing advocate-skeptic-judge debate architecture using GPT-4o
-- Designing semantic skill libraries with dynamic generation and gap-analysis capabilities
+- Developed autonomous **multi-agent LLM pipeline using GPT-4o** orchestrating specialized agents across schema interpretation, pattern mining, and SQL generation
+- Designed scalable **agentic AI workflow** achieving **23% higher insightfulness** and **18% statistical coherence** over baseline systems
+- Architected **advocate-skeptic-judge debate architecture** for insight validation with dual-track LLM-as-a-Judge evaluation
 - Preparing research for **VLDB 2025 Demo** conference track
 
 </details>
 
 <details>
-<summary><b>🤖 Machine Learning Intern @ Coforge</b> | Remote | <i>Oct 2023 - Jan 2024</i></summary>
+<summary><b>🤖 Machine Learning Intern @ Coforge</b> | Greater Noida, India | <i>Oct 2023 - Jan 2024</i></summary>
 <br>
 
-- Built **self-healing extraction pipeline** using weak supervision and prompt engineering
-- Achieved **95% accuracy** in key-value extraction from insurance forms with Azure Cognitive Services
-- Developed robust schema generation system for semi-structured documents
-- Optimized OCR preprocessing with **OpenCV** and **TensorFlow**
+- Architected **LLM-driven document extraction pipeline** using Azure Cognitive Services achieving **95% field-level accuracy**
+- Enhanced OCR robustness with **OpenCV and TensorFlow**, reducing inference latency by **15%** through model quantization
+- Spearheaded **LLM-driven metadata extraction** and schema generation with parallel validation workflows for production AI system
+- Validated against manual ground-truth annotations across thousands of semi-structured insurance documents
 
 </details>
 
@@ -122,7 +122,7 @@ class GaurviVishnoi:
 <td width="50%" valign="top">
 
 **Large Language Models**
-- Fine-tuning: QLoRA, LoRA, PEFT
+- Fine-tuning: QLoRA, LoRA, PEFT, RLHF
 - Frameworks: LangChain, CrewAI, AutoGen
 - Evaluation: LLM-as-a-Judge, RAG systems
 - Models: GPT-4, Claude, LLaMA, Mistral
@@ -137,13 +137,13 @@ class GaurviVishnoi:
 <td width="50%" valign="top">
 
 **GenAI & Multimodal AI**
-- Text-to-Image: Stable Diffusion, DALL-E
+- Text-to-Image: Stable Diffusion, SDXL
 - Video Generation: CogVideoX, Wav2Lip
 - Vision-Language: CLIP, BLIP, LLaVA
 - Multi-Agent Systems: Debate, Reflection
 
 **MLOps & Deployment**
-- Cloud: AWS (Lambda, SageMaker), GCP
+- Cloud: AWS (Lambda, SageMaker), GCP, Azure
 - Containerization: Docker, Kubernetes
 - Experiment Tracking: MLFlow, W&B
 - Optimization: CUDA, TensorRT, ONNX
@@ -152,15 +152,15 @@ class GaurviVishnoi:
 </tr>
 </table>
 
-### Tech Stack
+### 💻 Tech Stack
 
 ```yaml
 Languages:
   Primary: [Python, C++, JavaScript, SQL]
-  Secondary: [R, HTML, CSS, Bash]
+  Secondary: [R, HTML, CSS, CUDA]
 
 ML Frameworks:
-  Deep Learning: [PyTorch, TensorFlow, Keras]
+  Deep Learning: [PyTorch, TensorFlow, JAX, Keras]
   Traditional ML: [Scikit-learn, XGBoost, LightGBM]
   NLP: [HuggingFace Transformers, SpaCy, NLTK]
   Computer Vision: [OpenCV, Torchvision, Albumentations]
@@ -171,63 +171,59 @@ LLM & Agent Frameworks:
   Evaluation: [DeepEval, RAGAS, LangSmith]
 
 Data & Databases:
-  Processing: [Pandas, Polars, PySpark]
+  Processing: [Pandas, NumPy, PySpark]
   Databases: [PostgreSQL, MongoDB, ChromaDB, Pinecone]
   Visualization: [Matplotlib, Seaborn, Plotly, Streamlit]
 
 DevOps & Tools:
   Cloud: [AWS, GCP, Azure]
   Containers: [Docker, Kubernetes]
-  CI/CD: [GitHub Actions, Jenkins]
+  Workflow: [Airflow, MLflow]
   Version Control: [Git, DVC]
 ```
 
 ---
 
-## Achievements & Recognition
+## 🏆 Achievements & Recognition
 
 | Award | Achievement | Year |
 |-------|-------------|------|
-| **Certificate of Merit** | 1st Rank in B.Tech 3rd Year (CSE - AI/ML), SRM University | 2023 |
-| **Certificate of Appreciation** | 3rd Prize at SRM Tech Expo (500+ participants) | 2024 |
-| **Merit Scholarship** | Performance-based scholarship by CSE Dept, SRM | 2021 |
-| **Dean's List** | Consistent academic excellence (GPA > 3.8) | 2020-2024 |
+| 🥇 **Certificate of Merit** | 1st Rank in B.Tech 3rd Year (CSE - AI/ML), SRM University | 2023 |
+| 🥉 **Certificate of Appreciation** | 3rd Prize at SRM Tech Expo (500+ participants) | 2024 |
+| 💰 **Merit Scholarship** | Performance-based scholarship by CSE Dept, SRM | 2021 |
+| 🎓 **Dean's List** | Consistent academic excellence (GPA > 9.7/10) | 2020-2024 |
 
 ---
 
 ## 📊 Featured Projects
 
-### 🤖 [D2I: Data-to-Insight Pipeline](https://github.com/gaurvi-vishnoi)
+### 🤖 [YouTube Real-Time Transcription & Translation Extension](https://github.com/gaurvi-vishnoi)
+> Chrome MV3 extension with real-time ASR and live translation
+- **Tech**: TypeScript, Node.js, WebSocket, OpenAI Realtime API
+- **Highlights**: Web Audio Worklet, 24kHz PCM16 resampling, sub-second latency captions
+- **Features**: Rolling caption overlay, English/Hindi translation, decoupled service worker pipeline
+
+### 🔍 [JAX-Based LLM Routing System](https://github.com/gaurvi-vishnoi)
+> AI customer support routing with RAG pipeline and confidence-based guardrails
+- **Tech**: Python, JAX, Flax, OpenAI API, Streamlit
+- **Highlights**: LLM-as-a-Judge evaluation, grounded responses, performance analytics dashboard
+- **Impact**: Automated ticket classification with real-time monitoring
+
+### 🏥 [D2I: Data-to-Insight Pipeline](https://github.com/gaurvi-vishnoi)
 > Multi-agent system for automated insight generation from structured data
 - **Tech**: LangChain, GPT-4o, PostgreSQL, Python
 - **Highlights**: Advocate-skeptic-judge debate validation, dynamic skill generation
-- **Impact**: Reduces data analysis time by 60%, improves insight quality by 40%
+- **Impact**: 60% reduction in data analysis time, 40% improvement in insight quality
 
-### 🏥 [MediScan AI: Multimodal Medical Analysis](https://github.com/gaurvi-vishnoi)
-> AI-powered medical image analysis with automated report generation
-- **Tech**: Claude API, Vision Transformers, Mixture of Experts
-- **Highlights**: Multi-disease detection, diagnostic report synthesis
-- **Dataset**: Real Kaggle medical imaging (X-rays, CT, MRI)
+### 🌐 [Video Translation & Lip-Sync System](https://github.com/gaurvi-vishnoi)
+> End-to-end multilingual video dubbing pipeline
+- **Tech**: MAI-Transcribe-1, NLLB-200, Coqui XTTS-v2, Wav2Lip
+- **Achievement**: 2nd Place at USC Marshall Tech Fest 2026
 
 ### 🎬 [Storyboard-to-Video Pipeline](https://github.com/gaurvi-vishnoi)
 > Text-to-video generation with consistent character design
 - **Tech**: SDXL, CogVideoX, IP-Adapter, ControlNet
 - **Highlights**: Character consistency, scene transitions, narrative flow
-
-### 🌐 [Video Translation & Lip-Sync](https://github.com/gaurvi-vishnoi)
-> End-to-end multilingual video dubbing system
-- **Tech**: MAI-Transcribe-1, NLLB-200, Coqui XTTS-v2, Wav2Lip
-- **Achievement**: 2nd Place at USC Marshall Tech Fest 2026
-
-### 🤖 [Vision-Language Robotic Rearrangement](https://github.com/gaurvi-vishnoi)
-> Intelligent object manipulation in cluttered environments
-- **Tech**: BLIP, DINO, LLaMA, RRT* motion planning
-- **Performance**: 97% success rate in complex rearrangement tasks
-
-### 🔍 [LLM Evaluation Framework](https://github.com/gaurvi-vishnoi)
-> Comprehensive LLM-as-a-Judge pipeline for summary evaluation
-- **Tech**: GPT-4 variants, custom metrics (accuracy, bias, hallucination)
-- **Scope**: Automated evaluation across 5 quality dimensions
 
 ---
 
@@ -247,59 +243,79 @@ DevOps & Tools:
 
 ---
 
-## Latest Blog Posts & Articles
+## 📝 Latest Blog Posts & Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rise of Mixture of Experts: How MoE is Reshaping AI in 2026](https://medium.com/@gaurvi.i.vishnoi/the-rise-of-mixture-of-experts-how-moe-is-reshaping-ai-in-2026-45a47bfa4dfc)
-- [Swimming Robots Smaller Than a Grain of Sand: A Tiny Revolution](https://medium.com/@gaurvi.i.vishnoi/swimming-robots-smaller-than-a-grain-of-sand-a-tiny-revolution-with-massive-potential-0100354bd880)
-- [From Words to Worlds: My Journey into Vision-Language-Action Systems](https://medium.com/@gaurvi.i.vishnoi/from-words-to-worlds-my-journey-into-vision-language-and-vision-language-action-systems-b79b4b3ee8d6)
-- [How Sakana AI's Evolutionary Algorithm Builds Powerful AI Models](https://medium.com/@gaurvi.i.vishnoi/how-sakana-ais-new-evolutionary-algorithm-builds-powerful-ai-models-without-expensive-retraining-7bc7f2545a5c)
+- 🔥 [The Rise of Mixture of Experts: How MoE is Reshaping AI in 2026](https://medium.com/@gaurvi.i.vishnoi/the-rise-of-mixture-of-experts-how-moe-is-reshaping-ai-in-2026-45a47bfa4dfc)
+- 🤖 [Swimming Robots Smaller Than a Grain of Sand: A Tiny Revolution](https://medium.com/@gaurvi.i.vishnoi/swimming-robots-smaller-than-a-grain-of-sand-a-tiny-revolution-with-massive-potential-0100354bd880)
+- 🎯 [From Words to Worlds: My Journey into Vision-Language-Action Systems](https://medium.com/@gaurvi.i.vishnoi/from-words-to-worlds-my-journey-into-vision-language-and-vision-language-action-systems-b79b4b3ee8d6)
+- 🧬 [How Sakana AI's Evolutionary Algorithm Builds Powerful AI Models](https://medium.com/@gaurvi.i.vishnoi/how-sakana-ais-new-evolutionary-algorithm-builds-powerful-ai-models-without-expensive-retraining-7bc7f2545a5c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
 ## 🎯 Current Learning Goals
 
-```mermaid
-graph LR
-    A[🎯 2026 Goals] --> B[Mixture of Experts]
-    A --> C[FlashAttention-3]
-    A --> D[Agent Frameworks]
-    A --> E[MLOps at Scale]
-    
-    B --> B1[LLMOps platforms]
-    B --> B2[RLHF]
-    
-    C --> C1[DeepSpeed]
-    C --> C2[FSDP]
-    
-    D --> D1[AutoGen]
-    D --> D2[LangGraph]
-    
-    E --> E1[Small Language Models (SLMs)]
-    E --> E2[Kubernetes]
+### 🔥 Primary Focus (Q2 2026)
+
+```python
+learning_roadmap = {
+    "immediate": [
+        "🎯 Build custom MoE routing system with dynamic expert selection",
+        "⚡ Implement FlashAttention-3 for 100K+ context windows",
+        "🤖 Deploy multi-agent pipeline with LangGraph orchestration",
+        "🚀 Scale inference with vLLM on Kubernetes cluster"
+    ],
+    "next_3_months": [
+        "🔬 Fine-tune Mixtral 8x7B with domain-specific data",
+        "📊 Build end-to-end LLMOps monitoring dashboard",
+        "🎨 Design production-grade LLM evaluation pipelines",
+        "🌐 Contribute to open-source agent frameworks"
+    ],
+    "long_term": [
+        "🧬 Research novel MoE architectures for multimodal tasks",
+        "🏗️ Master distributed training with DeepSpeed/FSDP",
+        "🎓 Publish research on agentic AI systems",
+        "💡 Build FAANG-ready portfolio with cutting-edge projects"
+    ]
+}
 ```
 
-##  Open to Collaborate On
-
-- **Research**: Multi-agent systems, LLM evaluation, Vision-Language Models
-- **Open Source**: ML tools, Agent frameworks, Evaluation Pipelines
-- **Industry Projects**: Generative AI Applications, MLOps Infrastructure
-- **Mentorship**: Machine Learning Internships, Research Opportunities, Career Guidance
+**Core Technologies**: Mixture of Experts • FlashAttention-3 • AutoGen/LangGraph • vLLM/Kubernetes • Small Language Models • RLHF/DPO
 
 ---
 
-## Let's Connect!
+## 🤝 Open to Collaborate On
+
+- 🔬 **Research**: Multi-agent systems, LLM evaluation, Vision-Language Models
+- 🛠️ **Open Source**: ML tools, Agent frameworks, Evaluation Pipelines
+- 💼 **Industry Projects**: Generative AI Applications, MLOps Infrastructure
+- 🎓 **Mentorship**: Machine Learning Internships, Research Opportunities, Career Guidance
+
+---
+
+## 📬 Let's Connect!
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurvi-vishnoi/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gaurvi-vishnoi)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaurvi.i.vishnoi@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gaurvi.i.vishnoi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gaurvi-vishnoi.github.io)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gaurvi)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gaurvi_vishnoi)
 
 </div>
 
 ---
+
+<div align="center">
+  
+  ### 💭 Philosophy
+  
+  **"Research sharpens ideas. Design shapes the experience. Code turns vision into reality."**
+  
+  ---
+  
+  ⭐️ From [gaurvi-vishnoi](https://github.com/gaurvi-vishnoi) | Last updated: April 2026
+  
+</div>
