@@ -152,7 +152,7 @@ class GaurviVishnoi:
 </tr>
 </table>
 
-### 💻 Tech Stack
+### Tech Stack
 
 ```yaml
 Languages:
@@ -184,14 +184,14 @@ DevOps & Tools:
 
 ---
 
-## 🏆 Achievements & Recognition
+## Achievements & Recognition
 
 | Award | Achievement | Year |
 |-------|-------------|------|
-| 🥇 **Certificate of Merit** | 1st Rank in B.Tech 3rd Year (CSE - AI/ML), SRM University | 2023 |
-| 🥉 **Certificate of Appreciation** | 3rd Prize at SRM Tech Expo (500+ participants) | 2024 |
-| 💰 **Merit Scholarship** | Performance-based scholarship by CSE Dept, SRM | 2021 |
-| 🎓 **Dean's List** | Consistent academic excellence (GPA > 9.7/10) | 2020-2024 |
+| **Certificate of Merit** | 1st Rank in B.Tech 3rd Year (CSE - AI/ML), SRM University | 2023 |
+| **Certificate of Appreciation** | 3rd Prize at SRM Tech Expo (500+ participants) | 2024 |
+| **Merit Scholarship** | Performance-based scholarship by CSE Dept, SRM | 2021 |
+| **Dean's List** | Consistent academic excellence (GPA > 9.7/10) | 2020-2024 |
 
 ---
 
@@ -292,7 +292,7 @@ graph LR
 
 ---
 
-## 📬 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
@@ -314,6 +314,6 @@ graph LR
   
   ---
   
-  ⭐️ From [gaurvi-vishnoi](https://github.com/gaurvi-vishnoi) | Last updated: April 2026
+  From [gaurvi-vishnoi](https://github.com/gaurvi-vishnoi) | Last updated: April 2026
   
 </div>
