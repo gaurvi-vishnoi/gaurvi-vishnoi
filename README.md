@@ -12,7 +12,15 @@
 
 ## About Me
 
-I'm a **Machine Learning Engineer** passionate about building intelligent systems at the intersection of **language, vision, and autonomous decision-making**. My work spans from fine-tuning large language models to designing multi-agent pipelines that solve real-world problems.
+I'm a **Machine Learning Engineer** passionate about building intelligent systems at the intersection of **language, vision, and autonomous decision-making**. Currently pursuing my **MS in Computer Science at USC** (graduating May 2026), I specialize in designing **production-grade AI systems** that bridge research innovation with real-world impact.
+
+My work spans the full ML lifecycle—from architecting **multi-agent LLM pipelines** and **LLM-as-a-Judge evaluation frameworks** to deploying **real-time AI applications** on AWS Lambda with CI/CD automation. At **Autodesk**, I built consensus-based evaluation systems for Salesforce CRM AI summaries, reducing manual QA by 60%. At **USC's NEXDIG Lab**, I'm developing autonomous agents that transform raw PostgreSQL data into actionable business insights using GPT-4o orchestration.
+
+I thrive on **ambitious technical challenges**—whether it's implementing real-time transcription with WebSocket streaming and OpenAI's Realtime API, fine-tuning LLMs with LoRA/RLHF, or building JAX-based routing systems with RAG pipelines. My approach combines **rigorous engineering** (fault-tolerant orchestration, parallelized inference, quantization optimization) with **research-driven innovation** (agentic workflows, multi-model consensus scoring, observation-guided reasoning).
+
+Beyond code, I'm deeply invested in **pushing AI research forward**. My publications span CUDA-optimized handwriting recognition to GAN-based dense captioning, and I'm constantly exploring the frontier of **agentic AI, multimodal systems, and LLM evaluation methodologies**. I believe the most impactful AI systems are those that are not just technically sophisticated, but genuinely **useful, reliable, and deployable at scale**.
+
+**What drives me**: Turning complex AI research into production systems that real users trust—systems that handle thousands of concurrent requests, gracefully fail, auto-retry, and deliver value in milliseconds, not minutes.
 
 ```python
 class GaurviVishnoi:
