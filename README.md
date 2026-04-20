@@ -256,32 +256,30 @@ DevOps & Tools:
 
 ## 🎯 Current Learning Goals
 
-### 🔥 Primary Focus (Q2 2026)
-
-```python
-learning_roadmap = {
-    "immediate": [
-        "🎯 Build custom MoE routing system with dynamic expert selection",
-        "⚡ Implement FlashAttention-3 for 100K+ context windows",
-        "🤖 Deploy multi-agent pipeline with LangGraph orchestration",
-        "🚀 Scale inference with vLLM on Kubernetes cluster"
-    ],
-    "next_3_months": [
-        "🔬 Fine-tune Mixtral 8x7B with domain-specific data",
-        "📊 Build end-to-end LLMOps monitoring dashboard",
-        "🎨 Design production-grade LLM evaluation pipelines",
-        "🌐 Contribute to open-source agent frameworks"
-    ],
-    "long_term": [
-        "🧬 Research novel MoE architectures for multimodal tasks",
-        "🏗️ Master distributed training with DeepSpeed/FSDP",
-        "🎓 Publish research on agentic AI systems",
-        "💡 Build FAANG-ready portfolio with cutting-edge projects"
-    ]
-}
+```mermaid
+graph LR
+    A[🎯 2026 Goals] --> B[Advanced RL]
+    A --> C[Distributed Training]
+    A --> D[Agent Frameworks]
+    A --> E[MLOps at Scale]
+    
+    B --> B1[PPO/SAC]
+    B --> B2[RLHF]
+    
+    C --> C1[DeepSpeed]
+    C --> C2[FSDP]
+    
+    D --> D1[AutoGen]
+    D --> D2[LangGraph]
+    
+    E --> E1[Ray Serve]
+    E --> E2[Kubernetes]
 ```
 
-**Core Technologies**: Mixture of Experts • FlashAttention-3 • AutoGen/LangGraph • vLLM/Kubernetes • Small Language Models • RLHF/DPO
+- 🔬 **Advanced RL**: Implementing PPO, SAC, and RLHF for LLM alignment
+- ⚡ **Distributed Training**: Mastering DeepSpeed, FSDP for large-scale model training
+- 🤖 **Agent Frameworks**: Deep dive into AutoGen, LangGraph for complex workflows
+- 🚀 **MLOps at Scale**: Production deployment with Ray Serve, Kubernetes orchestration
 
 ---
 
