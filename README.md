@@ -253,13 +253,13 @@ DevOps & Tools:
 
 ---
 
-## 📝 Latest Blog Posts & Articles
+## Latest Blog Posts & Articles
 
 <!-- BLOG-POST-LIST:START -->
-- 🔥 [Building Multi-Agent Systems: Lessons from D2I Pipeline](https://medium.com/@gaurvi)
-- 🎯 [Fine-tuning Code LLaMA for Domain-Specific Tasks](https://medium.com/@gaurvi)
-- 🚀 [LLM-as-a-Judge: Automating Evaluation Pipelines](https://medium.com/@gaurvi)
-- 💡 [Vision-Language Models for Robotic Manipulation](https://medium.com/@gaurvi)
+- [The Rise of Mixture of Experts: How MoE is Reshaping AI in 2026](https://medium.com/@gaurvi.i.vishnoi/the-rise-of-mixture-of-experts-how-moe-is-reshaping-ai-in-2026-45a47bfa4dfc)
+- [Swimming Robots Smaller Than a Grain of Sand: A Tiny Revolution](https://medium.com/@gaurvi.i.vishnoi/swimming-robots-smaller-than-a-grain-of-sand-a-tiny-revolution-with-massive-potential-0100354bd880)
+- [From Words to Worlds: My Journey into Vision-Language-Action Systems](https://medium.com/@gaurvi.i.vishnoi/from-words-to-worlds-my-journey-into-vision-language-and-vision-language-action-systems-b79b4b3ee8d6)
+- [How Sakana AI's Evolutionary Algorithm Builds Powerful AI Models](https://medium.com/@gaurvi.i.vishnoi/how-sakana-ais-new-evolutionary-algorithm-builds-powerful-ai-models-without-expensive-retraining-7bc7f2545a5c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
