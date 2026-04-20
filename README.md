@@ -243,13 +243,13 @@ DevOps & Tools:
 
 ---
 
-## 📝 Latest Blog Posts & Articles
+## Latest Blog Posts & Articles
 
 <!-- BLOG-POST-LIST:START -->
-- 🔥 [The Rise of Mixture of Experts: How MoE is Reshaping AI in 2026](https://medium.com/@gaurvi.i.vishnoi/the-rise-of-mixture-of-experts-how-moe-is-reshaping-ai-in-2026-45a47bfa4dfc)
-- 🤖 [Swimming Robots Smaller Than a Grain of Sand: A Tiny Revolution](https://medium.com/@gaurvi.i.vishnoi/swimming-robots-smaller-than-a-grain-of-sand-a-tiny-revolution-with-massive-potential-0100354bd880)
-- 🎯 [From Words to Worlds: My Journey into Vision-Language-Action Systems](https://medium.com/@gaurvi.i.vishnoi/from-words-to-worlds-my-journey-into-vision-language-and-vision-language-action-systems-b79b4b3ee8d6)
-- 🧬 [How Sakana AI's Evolutionary Algorithm Builds Powerful AI Models](https://medium.com/@gaurvi.i.vishnoi/how-sakana-ais-new-evolutionary-algorithm-builds-powerful-ai-models-without-expensive-retraining-7bc7f2545a5c)
+- [The Rise of Mixture of Experts: How MoE is Reshaping AI in 2026](https://medium.com/@gaurvi.i.vishnoi/the-rise-of-mixture-of-experts-how-moe-is-reshaping-ai-in-2026-45a47bfa4dfc)
+- [Swimming Robots Smaller Than a Grain of Sand: A Tiny Revolution](https://medium.com/@gaurvi.i.vishnoi/swimming-robots-smaller-than-a-grain-of-sand-a-tiny-revolution-with-massive-potential-0100354bd880)
+- [From Words to Worlds: My Journey into Vision-Language-Action Systems](https://medium.com/@gaurvi.i.vishnoi/from-words-to-worlds-my-journey-into-vision-language-and-vision-language-action-systems-b79b4b3ee8d6)
+- [How Sakana AI's Evolutionary Algorithm Builds Powerful AI Models](https://medium.com/@gaurvi.i.vishnoi/how-sakana-ais-new-evolutionary-algorithm-builds-powerful-ai-models-without-expensive-retraining-7bc7f2545a5c)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -283,12 +283,12 @@ graph LR
 
 ---
 
-## 🤝 Open to Collaborate On
+## Open to Collaborate On
 
-- 🔬 **Research**: Multi-agent systems, LLM evaluation, Vision-Language Models
-- 🛠️ **Open Source**: ML tools, Agent frameworks, Evaluation Pipelines
-- 💼 **Industry Projects**: Generative AI Applications, MLOps Infrastructure
-- 🎓 **Mentorship**: Machine Learning Internships, Research Opportunities, Career Guidance
+- **Research**: Multi-Agent Systems, Large Language Models, Vision-Language Models
+- **Open Source**: Machine Learning Tools, Agent Frameworks, Evaluation Pipelines
+- **Industry Projects**: Generative AI Applications, MLOps Infrastructure
+- **Mentorship**: Machine Learning Internships, Research Opportunities, Career Guidance
 
 ---
 
@@ -300,7 +300,6 @@ graph LR
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gaurvi-vishnoi)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaurvi.i.vishnoi@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gaurvi.i.vishnoi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gaurvi-vishnoi.github.io)
 
 </div>
 
