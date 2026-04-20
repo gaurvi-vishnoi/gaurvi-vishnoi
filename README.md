@@ -10,20 +10,20 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a **Machine Learning Engineer** passionate about building intelligent systems at the intersection of **language, vision, and autonomous decision-making**. My work spans from fine-tuning large language models to designing multi-agent pipelines that solve real-world problems.
 
 ```python
 class GaurviVishnoi:
     def __init__(self):
-        self.location = "Los Angeles, CA 🌴"
+        self.location = "San Francisco, CA"
         self.education = {
-            "current": "MS Computer Science @ USC",
+            "current": "Masters of Science @ University of Southern California",
             "graduation": "May 2026",
-            "undergrad": "BTech CS (AI/ML) @ SRM Institute"
+            "undergrad": "Bachelor of Technology @ SRM Institute of Science and Technology"
         }
-        self.current_role = "ML Engineer Intern @ Autodesk"
+        self.current_role = "Machine Learning Engineer @ Autodesk"
         self.research = "Graduate Research Assistant @ USC NEXDIG Lab"
         
     def expertise(self):
@@ -35,10 +35,10 @@ class GaurviVishnoi:
     
     def current_focus(self):
         return [
-            "🔬 Building D2I: Data-to-Insight multi-agent research pipeline",
-            "🎯 Designing MoE architectures for multimodal medical systems",
-            "🌟 Creating FAANG-ready portfolio projects",
-            "📊 Exploring agentic AI for structured data analysis"
+            "Building D2I: Data-to-Insight multi-agent research pipeline",
+            "Designing MoE architectures for multimodal medical systems",
+            "Creating FAANG-ready portfolio projects",
+            "Exploring agentic AI for structured data analysis"
         ]
 ```
 
@@ -188,10 +188,10 @@ DevOps & Tools:
 
 | Award | Achievement | Year |
 |-------|-------------|------|
-| 🥇 **Certificate of Merit** | 1st Rank in B.Tech 3rd Year (CSE - AI/ML), SRM University | 2023 |
-| 🥉 **Certificate of Appreciation** | 3rd Prize at SRM Tech Expo (500+ participants) | 2024 |
-| 💰 **Merit Scholarship** | Performance-based scholarship by CSE Dept, SRM | 2021 |
-| 🎓 **Dean's List** | Consistent academic excellence (GPA > 3.8) | 2021-2023 |
+| **Certificate of Merit** | 1st Rank in B.Tech 3rd Year (CSE - AI/ML), SRM University | 2023 |
+| **Certificate of Appreciation** | 3rd Prize at SRM Tech Expo (500+ participants) | 2024 |
+| **Merit Scholarship** | Performance-based scholarship by CSE Dept, SRM | 2021 |
+| **Dean's List** | Consistent academic excellence (GPA > 3.8) | 2021-2023 |
 
 ---
 
