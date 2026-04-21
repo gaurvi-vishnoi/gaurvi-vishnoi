@@ -23,7 +23,7 @@ I thrive on **ambitious technical challenges**—real-time transcription with We
 ```python
 class GaurviVishnoi:
     def __init__(self):
-        self.location = "Los Angeles, CA 🌴"
+        self.location = "San Francisco, CA"
         self.education = {
             "current": "MS Computer Science @ USC",
             "graduation": "May 2026",
