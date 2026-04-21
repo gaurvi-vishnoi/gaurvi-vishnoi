@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a **Machine Learning Engineer** passionate about building intelligent systems at the intersection of **language, vision, and autonomous decision-making**. Currently pursuing my **MS in Computer Science at USC** (graduating May 2026), I specialize in designing **production-grade AI systems** that bridge research innovation with real-world impact.
 
@@ -50,10 +50,10 @@ class GaurviVishnoi:
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 <details open>
-<summary><b>🎨 Machine Learning Engineer Intern @ Autodesk</b> | San Francisco, CA | <i>May 2025 - Aug 2025</i></summary>
+<summary><b>Machine Learning Engineer Intern @ Autodesk</b> | San Francisco, CA | <i>May 2025 - Aug 2025</i></summary>
 <br>
 
 - Built an **LLM-as-a-Judge evaluation framework** for Salesforce CRM AI summaries with multi-model weighted consensus scoring
@@ -64,7 +64,7 @@ class GaurviVishnoi:
 </details>
 
 <details>
-<summary><b>🔬 Graduate Research Assistant @ USC NEXDIG Lab</b> | Los Angeles, CA | <i>Oct 2024 - Mar 2026</i></summary>
+<summary><b>Graduate Research Assistant @ USC NEXDIG Lab</b> | Los Angeles, CA | <i>Oct 2024 - Mar 2026</i></summary>
 <br>
 
 - Developed autonomous **multi-agent LLM pipeline using GPT-4o** orchestrating specialized agents across schema interpretation, pattern mining, and SQL generation
@@ -75,7 +75,7 @@ class GaurviVishnoi:
 </details>
 
 <details>
-<summary><b>🤖 Machine Learning Intern @ Coforge</b> | Greater Noida, India | <i>Oct 2023 - Jan 2024</i></summary>
+<summary><b>Machine Learning Intern @ Coforge</b> | Greater Noida, India | <i>Oct 2023 - Jan 2024</i></summary>
 <br>
 
 - Architected **LLM-driven document extraction pipeline** using Azure Cognitive Services achieving **95% field-level accuracy**
