@@ -12,13 +12,15 @@
 
 ## About Me
 
-I'm a **Machine Learning Engineer** passionate about building intelligent systems at the intersection of **language, vision, and autonomous decision-making**. Currently pursuing my **MS in Computer Science at USC** (graduating May 2026), I specialize in designing **production-grade AI systems** that bridge research innovation with real-world impact.
+ML Engineer building production AI systems at the intersection of language, vision, and multi-agent orchestration. MS Computer Science @ USC (May 2026).
+I architect and deploy end-to-end ML pipelines—from research prototypes to production systems handling thousands of concurrent requests. My stack spans LLM orchestration (GPT-4o, LangChain), fine-tuning (LoRA, RLHF), model evaluation (LLM-as-a-Judge), retrieval systems (RAG, vector DBs), and cloud infrastructure (AWS Lambda, WebSocket streaming).
 
-My work spans the full ML lifecycle—from architecting **multi-agent LLM pipelines** and **LLM-as-a-Judge evaluation frameworks** to deploying **real-time AI applications** on AWS Lambda. At **Autodesk**, I built consensus-based evaluation systems reducing manual QA by 60%. At **USC's NEXDIG Lab**, I'm developing autonomous agents that transform raw data into actionable insights using GPT-4o orchestration.
+At Autodesk, I built consensus-based LLM evaluation frameworks that reduced manual QA by 60%. At USC's NEXDIG Lab, I'm developing autonomous multi-agent systems for data-to-insight pipelines with PostgreSQL state management and dynamic skill generation.
 
-I thrive on **ambitious technical challenges**—real-time transcription with WebSocket streaming, fine-tuning LLMs with LoRA/RLHF, building JAX-based routing systems with RAG pipelines. My approach combines **rigorous engineering** with **research-driven innovation**, creating systems that are not just technically sophisticated, but genuinely **useful, reliable, and deployable at scale**.
+Recent work: real-time transcription APIs, JAX-based routing with RAG, multimodal vision systems, adversarial debate mechanisms for LLM validation. I deploy PyTorch/JAX models, optimize for latency and scale, and turn research papers into reliable, production-grade systems.
 
-**What drives me**: Turning complex AI research into production systems that handle thousands of concurrent requests and deliver value in milliseconds, not minutes.
+What I build: AI that ships—technically sophisticated, rigorously engineered, delivering value in milliseconds.
+
 
 ```python
 class GaurviVishnoi:
@@ -227,7 +229,7 @@ DevOps & Tools:
 
 ---
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   
