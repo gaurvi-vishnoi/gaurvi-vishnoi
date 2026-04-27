@@ -12,7 +12,7 @@
 
 ## About Me
 
-Machine Learning Engineer focused on building scalable, production-grade AI systems across language, vision, and multi-agent environments. I work across the full stack—from model design and evaluation to deployment and real-time infrastructure using tools like PyTorch, JAX, LLM orchestration frameworks, and cloud-native systems.
+Machine Learning Engineer focused on building scalable, production-grade AI systems across language, vision, and multi-agent environments. I work across the full stack from model design and evaluation to deployment and real-time infrastructure using tools like PyTorch, JAX, LLM orchestration frameworks, and cloud-native systems.
 
 I’m particularly interested in efficient model serving, retrieval-augmented systems, and robust evaluation strategies that make AI reliable at scale. I value clean system design, low-latency architectures, and translating complex ideas into practical, high-impact solutions.
 
@@ -93,7 +93,7 @@ class GaurviVishnoi:
 **[Full Page Handwriting Recognition on CUDA Enabled Docker](https://example.com)**  
 *Journal of Artificial Intelligence and Imaging* • October 2024  
 🔹 Built a multiline handwriting recognition pipeline by combining TrOCR with PaddleOCR 
-🔹 Optimized inference with GPU acceleration and parallel processing, enabling significant throughput improvements in a containerized CUDA environment
+🔹 Optimized inference with GPU acceleration and parallel processing
 🔹 Designed efficient pipeline for batch processing handwritten documents
 
 **[Dense Caption Imaging](https://zenodo.org/records/8394992)**  
