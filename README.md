@@ -92,7 +92,7 @@ class GaurviVishnoi:
 
 **[Full Page Handwriting Recognition on CUDA Enabled Docker](https://example.com)**  
 *Journal of Artificial Intelligence and Imaging* • October 2024  
-🔹 Built a multiline handwriting recognition pipeline by combining TrOCR (Transformer-based recognition) with PaddleOCR (robust text detection)  
+🔹 Built a multiline handwriting recognition pipeline by combining TrOCR with PaddleOCR 
 🔹 Optimized inference with GPU acceleration and parallel processing, enabling significant throughput improvements in a containerized CUDA environment
 🔹 Designed efficient pipeline for batch processing handwritten documents
 
