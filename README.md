@@ -12,14 +12,11 @@
 
 ## About Me
 
-ML Engineer building production AI systems at the intersection of language, vision, and multi-agent orchestration. MS Computer Science @ USC (May 2026).
-I architect and deploy end-to-end ML pipelines—from research prototypes to production systems handling thousands of concurrent requests. My stack spans LLM orchestration (GPT-4o, LangChain), fine-tuning (LoRA, RLHF), model evaluation (LLM-as-a-Judge), retrieval systems (RAG, vector DBs), and cloud infrastructure (AWS Lambda, WebSocket streaming).
+Machine Learning Engineer focused on building scalable, production-grade AI systems across language, vision, and multi-agent environments. I work across the full stack—from model design and evaluation to deployment and real-time infrastructure using tools like PyTorch, JAX, LLM orchestration frameworks, and cloud-native systems.
 
-At Autodesk, I built consensus-based LLM evaluation frameworks that reduced manual QA by 60%. At USC's NEXDIG Lab, I'm developing autonomous multi-agent systems for data-to-insight pipelines with PostgreSQL state management and dynamic skill generation.
+I’m particularly interested in efficient model serving, retrieval-augmented systems, and robust evaluation strategies that make AI reliable at scale. I value clean system design, low-latency architectures, and translating complex ideas into practical, high-impact solutions.
 
-Recent work: real-time transcription APIs, JAX-based routing with RAG, multimodal vision systems, adversarial debate mechanisms for LLM validation. I deploy PyTorch/JAX models, optimize for latency and scale, and turn research papers into reliable, production-grade systems.
-
-What I build: AI that ships—technically sophisticated, rigorously engineered, delivering value in milliseconds.
+Always learning exploring new advances in foundation models, distributed systems, and MLOps to stay at the edge of what’s possible in applied AI.
 
 
 ```python
@@ -27,26 +24,26 @@ class GaurviVishnoi:
     def __init__(self):
         self.location = "San Francisco, CA"
         self.education = {
-            "current": "MS Computer Science @ USC",
+            "current": "Masters of Science @ University of Southern California",
             "graduation": "May 2026",
-            "undergrad": "BTech CS (AI/ML) @ SRM Institute"
+            "undergrad": "Bachelor of Technology @ SRM Institute of Science and Technology"
         }
-        self.current_role = "ML Engineer Intern @ Autodesk"
+        self.current_role = "Machine Learning Engineer @ Autodesk"
         self.research = "Graduate Research Assistant @ USC NEXDIG Lab"
         
     def expertise(self):
         return {
-            "core": ["LLMs", "Multi-Agent Systems", "Computer Vision", "GenAI"],
+            "core": ["LLMs", "Multi-Agent Systems", "Computer Vision", "Generative AI"],
             "specialization": ["LLM Evaluation", "Model Fine-tuning", "Vision-Language Models"],
             "deployment": ["AWS Lambda", "Docker", "CUDA Optimization", "MLFlow"]
         }
     
     def current_focus(self):
         return [
-            "🔬 Building D2I: Data-to-Insight multi-agent research pipeline",
-            "🎯 Designing MoE architectures for multimodal medical systems",
-            "🌟 Creating FAANG-ready portfolio projects",
-            "📊 Exploring agentic AI for structured data analysis"
+            " Building D2I: Data-to-Insight multi-agent research pipeline",
+            " Designing MoE architectures for multimodal medical systems",
+            " Developing scalable MLOps pipelines (CI/CD, model monitoring, data/versioning, deployment)",
+            " Exploring agentic AI systems with deep dives into LLM orchestration, RAG pipelines, vector databases, and distributed inference systems"
         ]
 ```
 
@@ -69,10 +66,10 @@ class GaurviVishnoi:
 <summary><b>Graduate Research Assistant @ USC NEXDIG Lab</b> | Los Angeles, CA | <i>Oct 2024 - Mar 2026</i></summary>
 <br>
 
-- Developed autonomous **multi-agent LLM pipeline using GPT-4o** orchestrating specialized agents across schema interpretation, pattern mining, and SQL generation
-- Designed scalable **agentic AI workflow** achieving **23% higher insightfulness** and **18% statistical coherence** over baseline systems
-- Architected **advocate-skeptic-judge debate architecture** for insight validation with dual-track LLM-as-a-Judge evaluation
-- Preparing research for **VLDB 2025 Demo** conference track
+- Developed a state-aware multi-agent system (D2I) for end-to-end actionable data-to-insight discovery using LLM-driven reasoning and structured analytical workflows
+- Designed a trajectory-based exploration framework with persistent memory (Insight Repository) enabling iterative, context-aware, and non-redundant insight generation
+- Introduced an adversarial multi-agent validation framework (advocate–skeptic–judge) to ensure statistical robustness and filter low-quality insights
+- Preparing submission for top-tier database conference (VLDB Demo Track 2025)
 
 </details>
 
@@ -89,35 +86,35 @@ class GaurviVishnoi:
 
 ---
 
-## 🔬 Research & Publications
+## Research & Publications
 
-### 📄 Published Works
+### Published Works
 
 **[Full Page Handwriting Recognition on CUDA Enabled Docker](https://example.com)**  
 *Journal of Artificial Intelligence and Imaging* • October 2024  
-🔹 Integrated **TrOCR** and **PaddleOCR** for full-page text extraction  
-🔹 Achieved **3x speedup** through CUDA optimization on containerized deployment  
+🔹 Built a multiline handwriting recognition pipeline by combining TrOCR (Transformer-based recognition) with PaddleOCR (robust text detection)  
+🔹 Optimized inference with GPU acceleration and parallel processing, enabling significant throughput improvements in a containerized CUDA environment
 🔹 Designed efficient pipeline for batch processing handwritten documents
 
-**[Dense Caption Imaging](https://example.com)**  
+**[Dense Caption Imaging](https://zenodo.org/records/8394992)**  
 *International Journal of Scientific Research and Technology* • September 2023  
-🔹 Developed **GAN-based text-to-image synthesis** model  
-🔹 Trained on **COCO and CUB datasets** with TensorFlow  
-🔹 Implemented attention mechanisms for improved semantic alignment
+🔹 Developed a hierarchical text-to-image generation system (StackGAN-based) for caption-conditioned image synthesis 
+🔹 Trained on COCO and CUB datasets, optimizing for semantic consistency and diversity in generated images
+🔹 Enhanced generation quality using attention mechanisms, residual connections, and advanced upsampling (Laplacian pyramid) for improved structure and detail
 
-### 🎯 Current Research Projects
+### Current Research Projects
 
 **D2I: Data-to-Insight Multi-Agent Pipeline**
-- Multi-agent orchestration with LangChain for automated data analysis
-- Advocate-skeptic-judge debate system for insight validation
-- Dynamic skill generation and semantic retrieval architecture
-- Target: VLDB 2025 Demo Conference
+- Architected a stateful multi-agent system for automated, end-to-end data-to-insight discovery
+- Designed an adversarial validation framework (advocate–skeptic–judge) for robust insight verification
+- Built trajectory-based memory, skill-driven planning for iterative, context-aware analysis
+- Leveraging LLM orchestration, semantic retrieval, and hybrid execution SQL/Python for scalable analytics
 
 ---
 
-## 🛠️ Technical Expertise
+## Technical Expertise
 
-### 🤖 AI & Machine Learning
+### AI & Machine Learning
 
 <table>
 <tr>
@@ -197,35 +194,25 @@ DevOps & Tools:
 
 ---
 
-## 📊 Featured Projects
+## Featured Projects
 
-### 🤖 [YouTube Real-Time Transcription & Translation Extension](https://github.com/gaurvi-vishnoi)
+### [YouTube Real-Time Transcription & Translation Extension](https://github.com/gaurvi-vishnoi)
 > Chrome MV3 extension with real-time ASR and live translation
 - **Tech**: TypeScript, Node.js, WebSocket, OpenAI Realtime API
 - **Highlights**: Web Audio Worklet, 24kHz PCM16 resampling, sub-second latency captions
 - **Features**: Rolling caption overlay, English/Hindi translation, decoupled service worker pipeline
 
-### 🔍 [JAX-Based LLM Routing System](https://github.com/gaurvi-vishnoi)
+### [JAX-Based LLM Routing System](https://github.com/gaurvi-vishnoi)
 > AI customer support routing with RAG pipeline and confidence-based guardrails
 - **Tech**: Python, JAX, Flax, OpenAI API, Streamlit
 - **Highlights**: LLM-as-a-Judge evaluation, grounded responses, performance analytics dashboard
 - **Impact**: Automated ticket classification with real-time monitoring
 
-### 🏥 [D2I: Data-to-Insight Pipeline](https://github.com/gaurvi-vishnoi)
+### [D2I: Data-to-Insight Pipeline](https://github.com/gaurvi-vishnoi)
 > Multi-agent system for automated insight generation from structured data
 - **Tech**: LangChain, GPT-4o, PostgreSQL, Python
 - **Highlights**: Advocate-skeptic-judge debate validation, dynamic skill generation
 - **Impact**: 60% reduction in data analysis time, 40% improvement in insight quality
-
-### 🌐 [Video Translation & Lip-Sync System](https://github.com/gaurvi-vishnoi)
-> End-to-end multilingual video dubbing pipeline
-- **Tech**: MAI-Transcribe-1, NLLB-200, Coqui XTTS-v2, Wav2Lip
-- **Achievement**: 2nd Place at USC Marshall Tech Fest 2026
-
-### 🎬 [Storyboard-to-Video Pipeline](https://github.com/gaurvi-vishnoi)
-> Text-to-video generation with consistent character design
-- **Tech**: SDXL, CogVideoX, IP-Adapter, ControlNet
-- **Highlights**: Character consistency, scene transitions, narrative flow
 
 ---
 
@@ -256,7 +243,7 @@ DevOps & Tools:
 
 ---
 
-## 🎯 Current Learning Goals
+## Current Learning Goals
 
 ```mermaid
 graph LR
@@ -278,10 +265,10 @@ graph LR
     E --> E2[Kubernetes]
 ```
 
-- 🔬 **Advanced RL**: Implementing PPO, SAC, and RLHF for LLM alignment
-- ⚡ **Distributed Training**: Mastering DeepSpeed, FSDP for large-scale model training
-- 🤖 **Agent Frameworks**: Deep dive into AutoGen, LangGraph for complex workflows
-- 🚀 **MLOps at Scale**: Production deployment with Ray Serve, Kubernetes orchestration
+-  **Advanced RL**: Implementing PPO, SAC, and RLHF for LLM alignment
+-  **Distributed Training**: Mastering DeepSpeed, FSDP for large-scale model training
+-  **Agent Frameworks**: Deep dive into AutoGen, LangGraph for complex workflows
+-  **MLOps at Scale**: Production deployment with Ray Serve, Kubernetes Orchestration
 
 ---
 
