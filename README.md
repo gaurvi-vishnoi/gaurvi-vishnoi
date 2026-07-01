@@ -18,35 +18,6 @@ I’m particularly interested in efficient model serving, retrieval-augmented sy
 
 Always learning exploring new advances in foundation models, distributed systems, and MLOps to stay at the edge of what’s possible in applied AI.
 
-
-```python
-class GaurviVishnoi:
-    def __init__(self):
-        self.location = "San Francisco, CA"
-        self.education = {
-            "current": "Masters of Science @ University of Southern California",
-            "graduation": "May 2026",
-            "undergrad": "Bachelor of Technology @ SRM Institute of Science and Technology"
-        }
-        self.current_role = "Machine Learning Engineer @ Autodesk"
-        self.research = "Graduate Research Assistant @ USC NEXDIG Lab"
-        
-    def expertise(self):
-        return {
-            "core": ["LLMs", "Multi-Agent Systems", "Computer Vision", "Generative AI"],
-            "specialization": ["LLM Evaluation", "Model Fine-tuning", "Vision-Language Models"],
-            "deployment": ["AWS Lambda", "Docker", "CUDA Optimization", "MLFlow"]
-        }
-    
-    def current_focus(self):
-        return [
-            " Building D2I: Data-to-Insight multi-agent research pipeline",
-            " Designing MoE architectures for multimodal medical systems",
-            " Developing scalable MLOps pipelines (CI/CD, model monitoring, data/versioning, deployment)",
-            " Exploring agentic AI systems with deep dives into LLM orchestration, RAG pipelines, vector databases, and distributed inference systems"
-        ]
-```
-
 ---
 
 ## Professional Experience
