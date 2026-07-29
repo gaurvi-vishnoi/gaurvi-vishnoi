@@ -191,13 +191,13 @@ DevOps & Tools:
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=gaurvi-vishnoi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gaurvi-vishnoi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&include_all_commits=true" width="48%" />
   <img src="https://streak-stats.demolab.com?user=gaurvi-vishnoi&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" width="48%" />
   
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurvi-vishnoi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=8" width="48%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gaurvi-vishnoi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=8" width="48%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurvi-vishnoi&theme=radical&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" width="48%" />
 </div>
 
